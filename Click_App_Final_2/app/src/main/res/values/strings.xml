@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">click_app</string>
+    <string name="toast">Reset</string>
+    <string name="count">Count</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Thông báo gì đó</string>
+
+</resources>
